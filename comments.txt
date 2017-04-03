@@ -1,0 +1,153 @@
+k = 10  Lambda = 10
+3.66081876376 Titanic (1997)
+3.63054008343 Star Wars (1977)
+3.54908737133 Shawshank Redemption, The (1994)
+3.42185080736 Good Will Hunting (1997)
+3.40725134316 Schindler's List (1993)
+3.35316441079 Godfather, The (1972)
+3.34002498185 Raiders of the Lost Ark (1981)
+3.32825749098 Return of the Jedi (1983)
+3.31484764816 Braveheart (1995)
+3.31070648319 As Good As It Gets (1997)
+3.29222030429 Empire Strikes Back, The (1980)
+3.28387516676 Amistad (1997)
+3.27102970332 Apt Pupil (1998)
+3.23051403566 Close Shave, A (1995)
+3.21595184453 Mr. Holland's Opus (1995)
+3.21403920455 One Flew Over the Cuckoo's Nest (1975)
+3.19265198915 English Patient, The (1996)
+3.19002131764 Casablanca (1942)
+3.17957670185 Boot, Das (1981)
+3.16630870493 Wrong Trousers, The (1993)
+
+k = 10  Lambda = 1
+4.76655959953 Sliding Doors (1998)
+4.74176520599 Priest (1994)
+4.71755664732 Apt Pupil (1998)
+4.70187640647 As Good As It Gets (1997)
+4.70049125682 Rosewood (1997)
+4.66219433633 Ghosts of Mississippi (1996)
+4.49393494283 Love & Human Remains (1993)
+4.49030691174 Burnt By the Sun (1994)
+4.36929506591 Philadelphia (1993)
+4.36450357948 American President, The (1995)
+4.34530759038 Crucible, The (1996)
+4.34093878673 Schindler's List (1993)
+4.33002218905 Red Corner (1997)
+4.31621746547 Lost in Space (1998)
+4.29185518058 Horseman on the Roof, The (Hussard sur le toit, Le) (1995)
+4.28954297469 Home for the Holidays (1995)
+4.28636076476 unknown
+4.27805107205 In the Name of the Father (1993)
+4.27687228774 Devil's Own, The (1997)
+4.26534260479 Amistad (1997) 
+
+k = 10  Lambda = .1
+10.3873488989 Once Were Warriors (1994)
+9.40676146729 Cutthroat Island (1995)
+9.15192702203 Oscar & Lucinda (1997)
+8.99413537485 Microcosmos: Le peuple de l'herbe (1996)
+8.53991815192 Foreign Correspondent (1940)
+8.25608666474 Ma vie en rose (My Life in Pink) (1997)
+7.98513622769 Balto (1995)
+7.95547766734 Rising Sun (1993)
+7.4499338344 Out to Sea (1997)
+7.36338477547 Basketball Diaries, The (1995)
+7.34005779015 Body Parts (1991)
+7.33607341482 Virtuosity (1995)
+7.29351994667 Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)
+7.14947590684 Jude (1996)
+7.04552263591 Ice Storm, The (1997)
+6.9913838718 Widows' Peak (1994)
+6.95238747587 Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)
+6.89234430203 Before the Rain (Pred dozhdot) (1994)
+6.79039003366 Burnt By the Sun (1994)
+6.75100072357 I'll Do Anything (1994)
+
+k = 40  Lambda = 10
+3.49580146499 Star Wars (1977)
+3.48417999186 Shawshank Redemption, The (1994)
+3.32542571461 Titanic (1997)
+3.26276458215 Good Will Hunting (1997)
+3.22658193078 Raiders of the Lost Ark (1981)
+3.16631787796 Schindler's List (1993)
+3.14022824322 Indiana Jones and the Last Crusade (1989)
+3.13254757244 It's a Wonderful Life (1946)
+3.11167196212 Close Shave, A (1995)
+3.09379348335 Empire Strikes Back, The (1980)
+3.06811177494 Wrong Trousers, The (1993)
+3.03288858462 Casablanca (1942)
+3.02538542656 12 Angry Men (1957)
+3.00551328199 Braveheart (1995)
+3.002889442 Contact (1997)
+2.98773362686 Mr. Holland's Opus (1995)
+2.98159357341 Wizard of Oz, The (1939)
+2.97652712669 Rear Window (1954)
+2.96292471405 As Good As It Gets (1997)
+2.96137005987 Godfather, The (1972)
+
+k = 40  Lambda = 1
+4.89370019615 Sound of Music, The (1965)
+4.80631057527 Fantasia (1940)
+4.6625838659 E.T. the Extra-Terrestrial (1982)
+4.60288630647 Raiders of the Lost Ark (1981)
+4.57172457843 Cinema Paradiso (1988)
+4.47601856953 Shawshank Redemption, The (1994)
+4.45695630594 Some Folks Call It a Sling Blade (1993)
+4.37855276118 Field of Dreams (1989)
+4.36641137113 Indiana Jones and the Last Crusade (1989)
+4.32787366206 Wizard of Oz, The (1939)
+4.32504426575 Star Wars (1977)
+4.31460475362 When We Were Kings (1996)
+4.29906497727 American President, The (1995)
+4.26242410929 Some Like It Hot (1959)
+4.26232864463 Searching for Bobby Fischer (1993)
+4.25179361933 Walk in the Clouds, A (1995)
+4.24991693849 Mr. Holland's Opus (1995)
+4.2493305646 Forrest Gump (1994)
+4.23159986422 Third Man, The (1949)
+4.22872022214 Piano, The (1993)
+
+k = 40  Lambda = .1
+8.34155241221 Breaking the Waves (1996)
+7.01592820407 Brothers McMullen, The (1995)
+6.69247067899 Bound (1996)
+6.65205786866 Father of the Bride (1950)
+6.53363121434 Extreme Measures (1996)
+5.92746484322 Nutty Professor, The (1996)
+5.89408167876 Dazed and Confused (1993)
+5.8243399042 It Could Happen to You (1994)
+5.81868434648 Wings of Desire (1987)
+5.78847851456 Matilda (1996)
+5.78146068636 Grosse Pointe Blank (1997)
+5.75288930712 Secrets & Lies (1996)
+5.73204503775 William Shakespeare's Romeo and Juliet (1996)
+5.6234124118 Pump Up the Volume (1990)
+5.58850027808 Bad Boys (1995)
+5.53218986381 Madness of King George, The (1994)
+5.5104719984 Shadowlands (1993)
+5.47527999787 Bob Roberts (1992)
+5.46236155494 Wrong Trousers, The (1993)
+5.45271526905 North by Northwest (1959)
+
+L = Lambda , k = iterations
+For the first run with L = 10 and k = 20 the RMSE was 0.972868029173 and had some of the best results probably due to bias and varience being accounted for and tuned
+It also had relatively moderate ratings for many of the things selected.
+
+The second run L = 1, k = 20 came up with RMSE 1.0606583175 but the ratings it gave werent as good as before or maybe its because I did not knwo the movie titles..
+
+3rd run L = .01 k = 20, RMSE: 1.18787329339 came up with a slightly better recommendation than before but the actual scores for the 
+predictions are way over the amount they should be. This implies that the model is overfitting which makes sense since
+our L = 0.1 puts less punishment on values and increases the varience of the model.
+
+4th Run L = 10 , k = 40, RMSE: 0.984551821509 which is really similar to the values seen in the first run that was considered a safe choice
+The choices for movies were also very similar which actaully makes sense because L = 10 has been seen to make a good regularizer and the amount of values estimate off of
+seems to not change the models predictions 
+
+5th run L = 1 k = 40, RMSE: 1.274384439 its funny that this list is similar to the list when i was calculating the wrong values. This showed a quicker jump in error
+then seen when k =20 that could be to the graph estimating over too many values with k at 40. The recommendations seem as good as the last trial that is done but still match to an extent
+
+6th Run L = .1 k = 40, RMSE: 1.65365542102, The program once again overfitted the data and caused ratings to go over 5, but not as much as what occured in the third run
+suggesting that the k controls some of the damage to an extent at 40 but not enough since the 5th run still increases quickly. The recommendations though are still pretty good
+
+Overalll I would choose the first because it seemed to balance the variance well and provided low RMSE with good results for the trial run I had, but overall a lower RMSE does not mean a better recomendation.
